@@ -34,3 +34,9 @@ Small.args = {
   size: 'small',
   label: 'Button',
 };
+
+export const MasterBranch = Template.bind({});
+MasterBranch.args = {
+  size: 'small',
+  label: 'Master Branch',
+};
